@@ -178,3 +178,20 @@
   178  git status
   179  history -a
   180  history > historial_comandos.txt 
+  181  git status
+  182  git add .
+  183  git commit -m "feat: punto F"
+  184  git push
+  185  ll
+  186  cd ..
+  187  tree UTNFRA_SO_1P2C_2024_Nuxez/
+  188  cd UTNFRA_SO_1P2C_2024_Nuxez/
+  189  vim RTA_SCRIPT_Examen_20241012/Punto_B.sh 
+  190  vim RTA_SCRIPT_Examen_20241012/Punto_C.sh 
+  191  git status
+  192  history -a
+  193  history > historial_comandos.txt 
+  194  chmod 755 RTA_SCRIPT_Examen_20241012/Punto_C.sh
+  195  ./RTA_SCRIPT_Examen_20241012/Punto_C.sh 
+  196  history -a
+  197  history > historial_comandos.txt 
