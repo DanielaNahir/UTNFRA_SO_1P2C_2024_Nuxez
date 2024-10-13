@@ -119,3 +119,62 @@
   119  ll
   120  history
   121  history >> UTNFRA_SO_1P2C_2024_Nuxez/historial_comandos.txt
+  122  UTNFRA_SO_1P2C_2024_Nuxez/
+  123  git status
+  124  cd UTNFRA_SO_1P2C_2024_Nuxez/
+  125  git status
+  126  history -a
+  127  cat historial_comandos.txt
+  128  git status
+  129  git add .
+  130  git commit -m "ADD: historial de comandos"
+  131  git push
+  132  grep -i chassis dmidecode
+  133  sudo dmidecode -t chassis
+  134  dmidecode -t chassis
+  135  sudo dmidecode -t chassis
+  136  sudo dmidecode -t chassis | grep -i manu
+  137  sudo dmidecode -t chassis | grep -i "manu|cha"
+  138  sudo dmidecode -t chassis | grep -i 'manu|cha'
+  139  sudo dmidecode -t chassis | grep -i "chass"
+  140  sudo dmidecode -t chassis | grep -i "chass|man"
+  141  sudo dmidecode -t chassis | grep -i -E 'chassis information|manufac'
+  142  ll
+  143  echo $?
+  144  cat RTA_ARCHIVOS_Examen_20241012/Filtro_Basico.txt 
+  145  sudo dmidecode -t chassis | grep -i -E 'chassis information|manufac' >> RTA_ARCHIVOS_Examen_20241012/Filtro_Basico.txt
+  146  cat RTA_ARCHIVOS_Examen_20241012/Filtro_Basico.txt 
+  147  git status
+  148  history
+  149  vim RTA_SCRIPT_Examen_20241012/Punto_E.sh 
+  150  chmod 755 RTA_SCRIPT_Examen_20241012//Punto_E.sh 
+  151  ./RTA_SCRIPT_Examen_20241012/Punto_E.sh 
+  152  rm -rf RTA_ARCHIVOS_Examen_20241012/Filtro_Basico.txt 
+  153  cat RTA_ARCHIVOS_Examen_20241012/Filtro_Basico.txt 
+  154  ./RTA_SCRIPT_Examen_20241012/Punto_E.sh 
+  155  cat RTA_ARCHIVOS_Examen_20241012/Filtro_Basico.txt 
+  156  vim RTA_SCRIPT_Examen_20241012/Punto_E.sh 
+  157  rm -rf RTA_ARCHIVOS_Examen_20241012/Filtro_Basico.txt 
+  158  ./RTA_SCRIPT_Examen_20241012/Punto_E.sh 
+  159  cat RTA_ARCHIVOS_Examen_20241012/Filtro_Basico.txt 
+  160  git status
+  161  git add .
+  162  git commit -m "feat: punto E"
+  163  git push
+  164  git remote get-url origin
+  165  history -q
+  166  history -a
+  167  cat history > historial_comandos.txt 
+  168  history > historial_comandos.txt 
+  169  cat historial_comandos.txt 
+  170  vim RTA_SCRIPT_Examen_20241012/Punto_F.sh 
+  171  chmod 755 RTA_SCRIPT_Examen_20241012/Punto_F.sh
+  172  ./RTA_SCRIPT_Examen_20241012/Punto_F.sh
+  173  cat RTA_ARCHIVOS_Examen_20241012/Filtro_Avanzado.txt 
+  174  vim RTA_SCRIPT_Examen_20241012/Punto_F.sh 
+  175  rm -rf RTA_ARCHIVOS_Examen_20241012/Filtro_Avanzado.txt 
+  176  ./RTA_SCRIPT_Examen_20241012/Punto_F.sh
+  177  cat RTA_ARCHIVOS_Examen_20241012/Filtro_Avanzado.txt 
+  178  git status
+  179  history -a
+  180  history > historial_comandos.txt 
