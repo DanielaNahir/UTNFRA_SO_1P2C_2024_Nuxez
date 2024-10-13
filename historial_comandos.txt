@@ -1,0 +1,121 @@
+    1  cd ~
+    2  pwd
+    3  mkdir repogit
+    4  echo $?
+    5  cd repogit/
+    6  git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+    7  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+    8  source ~/.bashrc && history -a
+    9  cd UTN-FRA_SO_Examenes/
+   10  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+   11  source ~/.bashrc && history -a
+   12  cd ..
+   13  ll
+   14  [200~./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+   15  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+   16  source ~/.bashrc && history -a
+   17  ssh-keygen -t ed25519
+   18  cat /home/vagrant/.ssh/id_ed25519.pub
+   19  git clone git@github.com:DanielaNahir/UTNFRA_SO_1P2C_2024_Nuxez.git
+   20  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+   21  source ~/.bashrc && history -a
+   22  [200~source ~/.bashrc && history -a
+   23  ~source ~/.bashrc && history -a
+   24  source ~/.bashrc && history -a
+   25  ll
+   26  tree UTNFRA_SO_1P2C_2024_Nuxez/
+   27  apt  install tree 
+   28  sudo apt  install tree 
+   29  tree UTNFRA_SO_1P2C_2024_Nuxez/
+   30  sudo apt  install tree -y 
+   31  sudo update apt
+   32  update apt
+   33  sudo apt  install tree -y 
+   34  sudo apt update
+   35  sudo apt  install tree -y 
+   36  tree UTNFRA_SO_1P2C_2024_Nuxez/
+   37  mkdir -p Examenes-UTN1/{alumno_{1..3}/parcial_{1..3},profesores}
+   38  mkdir -p Examenes-UTN1/{alumno_{1..3}/parcial_{1..3},profesores} rmdir Examenes-UTN1/
+   39  echo $?
+   40  mkdir -p Examenes-UTN/{alumno_{1..3}/parcial_{1..3},profesores}
+   41  tree Examenes-UTN1/
+   42  rmdir Examenes-UTN1/
+   43  rm -rf Examenes-UTN1/
+   44  tree Examenes-UTN1/
+   45  mkdir -p Examenes-UTN/{alumno_{1..3}/parcial_{1..3},profesores}
+   46  tree Examenes-UTN/
+   47  ll
+   48  cd UTNFRA_SO_1P2C_2024_Nuxez/
+   49  ll
+   50  RTA_SCRIPT_Examen_20241012/
+   51  ll
+   52  cat RTA_SCRIPT_Examen_20241012/
+   53  tree RTA_SCRIPT_Examen_20241012/
+   54  vim RTA_SCRIPT_Examen_20241012/Punto_A.sh 
+   55  chmod 755 RTA_SCRIPT_Examen_20241012/Punto_A.sh
+   56  ./RTA_SCRIPT_Examen_20241012/Punto_A.sh 
+   57  cd..
+   58  cd../
+   59  cd ..
+   60  ll
+   61  rm -rf rmdir
+   62  ll
+   63  rm -rf Examenes-UTN/
+   64  ll
+   65  UTNFRA_SO_1P2C_2024_Nuxez/
+   66  cd UTNFRA_SO_1P2C_2024_Nuxez/
+   67  ll
+   68  vim RTA_SCRIPT_Examen_20241012/Punto_A.sh 
+   69  ./Punto_A.sh
+   70  ./RTA_SCRIPT_Examen_20241012/Punto_A.sh 
+   71  cd ..
+   72  ll
+   73  UTNFRA_SO_1P2C_2024_Nuxez/
+   74  ll
+   75  cd UTNFRA_SO_1P2C_2024_Nuxez/
+   76  sudo ./RTA_SCRIPT_Examen_20241012/Punto_A.sh 
+   77  cd
+   78  cd repogit/
+   79  ll
+   80  cd ..
+   81  ll
+   82  cd repogit/
+   83  cd UTNFRA_SO_1P2C_2024_Nuxez/
+   84  sudo ls -l /
+   85  git status
+   86  git add .
+   87  git status
+   88  git commit -m "ADD: scripts y punto a"
+   89  git config --global user.email "danielanahir927@gmail.com"
+   90  git config --global user.name "DanielaNahir"
+   91  git commit -m "ADD: scripts y punto a"
+   92  git push
+   93  [200~sudo fdisk -l
+   94  ~sudo fdisk -l
+   95  sudo fdisk -l
+   96  history >> /home/vagrant/historial_comandos.txt
+   97  cat /home/vagrant/historial_comandos.txt
+   98  history -a
+   99  exit
+  100  history
+  101  cd repogit/
+  102  cd UTNFRA_SO_1P2C_2024_Nuxez/
+  103  vim RTA_SCRIPT_Examen_20241012/Punto_D.sh 
+  104  chmod 755 RTA_SCRIPT_Examen_20241012/Punto_D.sh 
+  105  ./RTA_SCRIPT_Examen_20241012/Punto_D.sh 
+  106  git status
+  107  git add .
+  108  git status
+  109  git commit -m "feat: punto d"
+  110  git push
+  111  cd ..
+  112  ll
+  113  UTNFRA_SO_1P2C_2024_Nuxez/
+  114  ll
+  115  cat UTNFRA_SO_1P2C_2024_Nuxez/
+  116  tree UTNFRA_SO_1P2C_2024_Nuxez/
+  117  rm -rf UTNFRA_SO_1P2C_2024_Nuxez/Estructura_Asimetrica/
+  118  tree UTNFRA_SO_1P2C_2024_Nuxez/
+  119  ll
+  120  history
+  121  history >> UTNFRA_SO_1P2C_2024_Nuxez/historial_comandos.txt
